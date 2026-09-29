@@ -34,9 +34,7 @@
         ▼
 [ JSON Output Response ]
 
+### OUTPUT SCREENSHOT:
 
-### OUTPUT screenshot
-<img width="958" height="145" alt="Screenshot 2026-09-29 235715" src="https://github.com/user-attachments/assets/2da4fa67-f3f0-4eb4-b4fa-15de24e28f56" />
-
-
+<img width="958" height="145" alt="Screenshot" src="https://github.com/user-attachments/assets/2da4fa67-f3f0-4eb4-b4fa-15de24e28f56" />
 
