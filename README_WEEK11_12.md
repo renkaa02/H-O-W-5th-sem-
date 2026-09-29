@@ -35,6 +35,8 @@
 [ JSON Output Response ]
 
 
-###OUTPUT 
-<img width="958" height="145" alt="Screenshot 2026-09-29 235715" src="https://github.com/user-attachments/assets/460b2c09-5df3-4c16-8a49-63609a929ea8" />
+### OUTPUT screenshot
+<img width="958" height="145" alt="Screenshot 2026-09-29 235715" src="https://github.com/user-attachments/assets/2da4fa67-f3f0-4eb4-b4fa-15de24e28f56" />
+
+
 
